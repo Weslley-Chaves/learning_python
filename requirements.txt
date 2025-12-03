@@ -1,0 +1,3 @@
+# IMPORTANTE: O ideal é ativar um ambiente virtual e realizar a instalação das bibliotecas constantes nesse arquivo.
+
+# Bibliotecas utilizadas neste repositório:
